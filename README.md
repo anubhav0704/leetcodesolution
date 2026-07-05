@@ -10,10 +10,12 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/anubhav0704/leetcodesolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/anubhav0704/leetcodesolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## String
 |  |
@@ -27,4 +29,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anubhav0704/leetcodesolution/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
