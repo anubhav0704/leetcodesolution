@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1965-employees-with-missing-information](https://github.com/anubhav0704/leetcodesolution/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
