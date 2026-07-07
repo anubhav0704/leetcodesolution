@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/anubhav0704/leetcodesolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anubhav0704/leetcodesolution/tree/master/0008-string-to-integer-atoi) |
+| [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,12 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhav0704/leetcodesolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
