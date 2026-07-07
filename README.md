@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/anubhav0704/leetcodesolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## String
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [1965-employees-with-missing-information](https://github.com/anubhav0704/leetcodesolution/tree/master/1965-employees-with-missing-information) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
