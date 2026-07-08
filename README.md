@@ -25,11 +25,13 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anubhav0704/leetcodesolution/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/anubhav0704/leetcodesolution/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
