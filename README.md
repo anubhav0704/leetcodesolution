@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
@@ -18,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
 | [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/anubhav0704/leetcodesolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -40,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
