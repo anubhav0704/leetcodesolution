@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/anubhav0704/leetcodesolution/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0237-delete-node-in-a-linked-list) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
