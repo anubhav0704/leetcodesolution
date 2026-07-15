@@ -36,6 +36,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/anubhav0704/leetcodesolution/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav0704/leetcodesolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav0704/leetcodesolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
