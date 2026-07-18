@@ -32,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/anubhav0704/leetcodesolution/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anubhav0704/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 ## Math
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -114,4 +116,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav0704/leetcodesolution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
