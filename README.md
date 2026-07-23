@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/anubhav0704/leetcodesolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -71,6 +72,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
