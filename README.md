@@ -32,6 +32,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/anubhav0704/leetcodesolution/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anubhav0704/leetcodesolution/tree/master/0392-is-subsequence) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anubhav0704/leetcodesolution/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav0704/leetcodesolution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 ## Sliding Window
