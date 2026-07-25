@@ -26,6 +26,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/anubhav0704/leetcodesolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## String
 |  |
@@ -37,6 +38,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anubhav0704/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
