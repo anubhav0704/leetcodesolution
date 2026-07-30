@@ -24,6 +24,7 @@
 | ------- |
 | [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -46,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anubhav0704/leetcodesolution/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav0704/leetcodesolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -123,6 +125,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav0704/leetcodesolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
