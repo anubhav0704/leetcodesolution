@@ -40,6 +40,7 @@
 | [0392-is-subsequence](https://github.com/anubhav0704/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anubhav0704/leetcodesolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0050-powx-n](https://github.com/anubhav0704/leetcodesolution/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anubhav0704/leetcodesolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anubhav0704/leetcodesolution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anubhav0704/leetcodesolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
