@@ -27,6 +27,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
+| [0875-koko-eating-bananas](https://github.com/anubhav0704/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/anubhav0704/leetcodesolution/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anubhav0704/leetcodesolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/anubhav0704/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
