@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
@@ -111,6 +112,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anubhav0704/leetcodesolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0013-roman-to-integer) |
