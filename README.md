@@ -6,6 +6,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/anubhav0704/leetcodesolution/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anubhav0704/leetcodesolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/anubhav0704/leetcodesolution/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0237-delete-node-in-a-linked-list) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anubhav0704/leetcodesolution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0392-is-subsequence](https://github.com/anubhav0704/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/anubhav0704/leetcodesolution/tree/master/0876-middle-of-the-linked-list) |
