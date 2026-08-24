@@ -42,6 +42,7 @@
 | [0008-string-to-integer-atoi](https://github.com/anubhav0704/leetcodesolution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/anubhav0704/leetcodesolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/anubhav0704/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anubhav0704/leetcodesolution/tree/master/0392-is-subsequence) |
@@ -90,6 +91,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anubhav0704/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/anubhav0704/leetcodesolution/tree/master/0875-koko-eating-bananas) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anubhav0704/leetcodesolution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
