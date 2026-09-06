@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/anubhav0704/leetcodesolution/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -57,6 +58,7 @@
 | [0012-integer-to-roman](https://github.com/anubhav0704/leetcodesolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anubhav0704/leetcodesolution/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/anubhav0704/leetcodesolution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/anubhav0704/leetcodesolution/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anubhav0704/leetcodesolution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
