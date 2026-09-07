@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/anubhav0704/leetcodesolution/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anubhav0704/leetcodesolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0204-count-primes](https://github.com/anubhav0704/leetcodesolution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anubhav0704/leetcodesolution/tree/master/0217-contains-duplicate) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhav0704/leetcodesolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anubhav0704/leetcodesolution/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/anubhav0704/leetcodesolution/tree/master/0617-merge-two-binary-trees) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anubhav0704/leetcodesolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anubhav0704/leetcodesolution/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/anubhav0704/leetcodesolution/tree/master/0617-merge-two-binary-trees) |
@@ -131,6 +134,7 @@
 | [0012-integer-to-roman](https://github.com/anubhav0704/leetcodesolution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anubhav0704/leetcodesolution/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/anubhav0704/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/anubhav0704/leetcodesolution/tree/master/0567-permutation-in-string) |
@@ -190,6 +194,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anubhav0704/leetcodesolution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
