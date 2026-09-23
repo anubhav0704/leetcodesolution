@@ -35,6 +35,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anubhav0704/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/anubhav0704/leetcodesolution/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/anubhav0704/leetcodesolution/tree/master/0414-third-maximum-number) |
 | [0875-koko-eating-bananas](https://github.com/anubhav0704/leetcodesolution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/anubhav0704/leetcodesolution/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -77,6 +78,7 @@
 | [0018-4sum](https://github.com/anubhav0704/leetcodesolution/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anubhav0704/leetcodesolution/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/anubhav0704/leetcodesolution/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/anubhav0704/leetcodesolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
