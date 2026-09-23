@@ -83,6 +83,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/anubhav0704/leetcodesolution/tree/master/0175-combine-two-tables) |
 | [1965-employees-with-missing-information](https://github.com/anubhav0704/leetcodesolution/tree/master/1965-employees-with-missing-information) |
 ## Dynamic Programming
 |  |
